@@ -59,7 +59,7 @@ The `solve_policy_iteration()` method finds the optimal policy $\pi(s)$ by alter
 ---
 
 ## Project Structure
-
+ ```bash
 ai-mdp-solver/
 ├── .gitignore         # Ignores Python cache and log files
 ├── LICENSE            # MIT License file
@@ -71,6 +71,7 @@ ai-mdp-solver/
     ├── environment.py # Defines the Gridworld class (the MDP itself)
     ├── solver.py      # Defines the MDPSolver class (Value/Policy Iteration)
     └── visualization.py # Helper functions to print the final grids
+   ```
 
 ## How to Use
 
