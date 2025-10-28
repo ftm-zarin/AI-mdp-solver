@@ -1,6 +1,6 @@
 # AI-Powered MDP Solver
 
-A Python-based solver for Markov Decision Processes (MDPs) using Value Iteration and Policy Iteration. This project implements the classic 4x3 "Russell-Norvig" stochastic gridworld from scratch. It was developed as a core project for an Artificial Intelligence course (CSCI-XXXX).
+A Python-based solver for Markov Decision Processes (MDPs) using Value Iteration and Policy Iteration. This project implements the classic 4x3 "Russell-Norvig" stochastic gridworld from scratch. It was developed as a core project for an Artificial Intelligence course.
 
 ## Features
 
